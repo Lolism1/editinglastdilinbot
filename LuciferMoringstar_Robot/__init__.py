@@ -11,31 +11,27 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
+Basic Commands
 
 /start :- check am Alive
 
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+Channel For Movies 
+
+https://t.me/MovieTalkiezGroup
+@MovieTalkiezBot
 
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Movie Talkiez Bot
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Main Channel : https://t.me/MovieTalkiezGroup
 
-➥ Language : Python3
+➥ Creator : [Anonymous]
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Bot : @MovieTalkiezBot
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
 """
+
+
+
