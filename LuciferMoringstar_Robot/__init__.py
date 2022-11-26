@@ -15,7 +15,7 @@ Basic Commands
 
 /start :- check am Alive
 
-Channel For Movies 
+Channel For Movies :
 
 https://t.me/MovieTalkiezGroup
 @MovieTalkiezBot
