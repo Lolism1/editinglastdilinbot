@@ -22,6 +22,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lolism1/Lastdilinbot)
 
+#### Deploy To Heroku
+
+[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/)
+
 #### Hard Way
 ```bash
 # Create virtual environment
